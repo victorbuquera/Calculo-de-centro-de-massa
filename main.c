@@ -14,7 +14,7 @@ int main(void) {
    strcpy(corp[0].nome, "@");
           corp[0].massa = 0;
           corp[0].idCorpo = 1;
-          
+        
 //VARIAVEIS DO MENU
 int opcaoMenu;  
 int menu = 1;
